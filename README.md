@@ -5,6 +5,7 @@ Initially I used an API to solve the game. Later on, I noticed that we can use b
 The algorithm is in backtracking.py 
 
 There is up and down arrow to adjust the number in the board. Once finish, click solve to see the result!
+
 <img width="461" alt="Screen Shot 2022-06-07 at 10 14 02 PM" src="https://user-images.githubusercontent.com/90353674/172516574-418781c3-de71-4bb8-a550-79363d0e735f.png">
 
 For instance, this input is a solvable sudoku
