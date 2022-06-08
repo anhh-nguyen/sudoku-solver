@@ -13,6 +13,7 @@ For instance, this input is a solvable sudoku
 
 After clicking solve, this is the result.
 
+
 <img width="467" alt="Screen Shot 2022-06-07 at 10 16 15 PM" src="https://user-images.githubusercontent.com/90353674/172516997-2f9071ed-c00b-4b12-8def-7a0ec8ba2a29.png">
 
 This application can also notices unsolvable sudoku
