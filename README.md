@@ -2,7 +2,7 @@
 Building out a Sudoku Solver grid using JavaScript and allow users to enter the digits that they see on their own Sudoku puzzles that they want to solve.
 
 Initially I used an API to solve the game. Later on, I noticed that we can use backtracking algorithm to solve for a sudoku board.
-The algorithm is in backtracking.py 
+The algorithm is in Solution.java
 
 There is up and down arrow to adjust the number in the board. Once finish, click solve to see the result!
 
